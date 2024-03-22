@@ -23,5 +23,7 @@ IMDb clone movie application
 <img width="1440" alt="Screenshot 2024-03-23 at 1 50 24 AM" src="https://github.com/mdirfan121/Ninja-Test/assets/31414222/03694dc1-38cc-441d-b9c3-1aced12b2735">
 
 
+
+
 **Clone the repository using below command**
 git clone https://github.com/mdirfan121/Ninja-Test
