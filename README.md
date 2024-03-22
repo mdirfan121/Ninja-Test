@@ -8,7 +8,7 @@ IMDb clone movie application
 3. favourite movie page where can see your favourite movie which you added in favourite list.
 
    
-**search mocie page before searching any movie.**
+**search movie page before searching any movie.**
 
 <img width="1440" alt="Screenshot 2024-03-23 at 1 47 35 AM" src="https://github.com/mdirfan121/Ninja-Test/assets/31414222/4bd88a62-b8c2-44f9-b241-e6437f87d600">
 
